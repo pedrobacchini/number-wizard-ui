@@ -1,5 +1,5 @@
 # number-wizard-ui
-Project 02 Unity Course https://www.udemy.com/unitycourse/ - Unity 2019.2.0f1
+Project 02 Unity Course - Unity 2019.2.0f1
 
 ![alt text](https://github.com/pedrobacchini/number-wizard-ui/blob/master/Assets/Sprites/Screen%20Shot%201.png)
 
